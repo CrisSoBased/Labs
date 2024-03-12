@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="button_text_at1">Abrir AT2</string>
+    <string name="at2_page">AT2 - Identificação da Página</string>
+    <string name="data_heading">Dados do Aluno:</string>
+    <string name="name">Nome: Cristovao Brandao</string>
+    <string name="number">Número: 26923</string>
+    <string name="shift">Turno: C</string>
+    <string name="city">Cidade: Porto</string>
+    <string name="button_text_at2">Fechar AT2</string>
+    <string name="at1_page">AT1 - Identificação da Página</string>
+
+
+</resources>

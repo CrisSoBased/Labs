@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="button_text_at1">Open AT2</string>
+    <string name="at2_page">AT2 - Page Identification</string>
+    <string name="data_heading">Student Data:</string>
+    <string name="name">Name: Cristovao Brandao</string>
+    <string name="number">Number: 26923</string>
+    <string name="shift">Shift: C</string>
+    <string name="city">City: Porto</string>
+    <string name="button_text_at2">Close AT2</string>
+    <string name="at1_page">AT1 - Page Identification</string>
+
+</resources>
